@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jowon-kim.github.io/enuma-codex/sitemap.xml
