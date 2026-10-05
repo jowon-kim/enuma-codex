@@ -1,0 +1,17 @@
+# Enuma
+
+> Enuma is a science-fantasy world built by its audience: laws are decided by comment votes on YouTube Shorts, and entries are proposed by viewers. This file lists the canon.
+
+## Laws
+- What powers this world? Chrono-Mythic Resonance binds time and myth, causing spoken legends to reshape reality and rewrite history.
+
+## Entries
+- [Echoes of Timeless Tales](https://jowon-kim.github.io/enuma-codex/entries/001.html) (law): In Enuma, every story told becomes a temporal ripple that can alter the past. Legends spoken aloud feed the Chrono-Mythic Resonance, reshaping events and birthing new realities.
+- [Silent Resonance Keepers](https://jowon-kim.github.io/enuma-codex/entries/002.html) (faction): The Chrono-Scribes guard the Luminous Library, curating spoken myths to steer reality. They edit the Chrono-Mythic Resonance, preserving favored histories while erasing others.
+- [Veiled Nexus of Destiny](https://jowon-kim.github.io/enuma-codex/entries/003.html) (place): The Veiled Nexus is a hidden valley where Chrono-Mythic Resonance converges, granting those who speak unaltered truth the power to rewrite personal destiny. Its secret lies guarded, its influence rippling through every spoken legend.
+- [Echobind Guild Chronicles](https://jowon-kim.github.io/enuma-codex/entries/004.html) (faction): The Echobind Guild roams Enuma, trading living stories sealed in portable artifacts. Their Resonance contracts prevent timeline fractures while offering fleeting reality shifts.
+- [Chrono-Forge Sanctum](https://jowon-kim.github.io/enuma-codex/entries/005.html) (place): Deep beneath the Veiled Nexus, mythic smiths shape temporal alloys that anchor storylines; activation requires speaking pure truth, letting its bearer safely reshape Chrono-Mythic Resonance.
+
+## More
+- [Votes](https://jowon-kim.github.io/enuma-codex/votes.html): every vote and its result
+- [Join in](https://jowon-kim.github.io/enuma-codex/how.html): how to vote and propose
